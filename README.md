@@ -1,16 +1,14 @@
-## Hi there 👋
+# Description
+Welcome to my profile! I like Incredibox mods and coding a Incredibox mod
 
-<!--
-**IncrediboxMods1/IncrediboxMods1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# My Profile Rules
+Don't block me
+Don't report me
+Report bad users (Not me)
 
-Here are some ideas to get you started:
+# Bio
+Joined date: 01/06/2026
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Status: New GitHuber
+
+Nationality: Brazil
