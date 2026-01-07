@@ -3,7 +3,9 @@ Welcome to my profile! I like Incredibox mods and coding a Incredibox mod
 
 # My Profile Rules
 Don't block me
+
 Don't report me
+
 Report bad users (Not me)
 
 # Bio
