@@ -19,3 +19,5 @@ Nationality: Brazil
 [Contact Us](https://github.com/IncrediboxMods1/Contact-Us/blob/main/README.md)
 
 [Rules](https://github.com/IncrediboxMods1/Rules/blob/main/README.md)
+
+[Our Team](https://github.com/IncrediboxMods1/Our-Team/blob/main/README.md)
