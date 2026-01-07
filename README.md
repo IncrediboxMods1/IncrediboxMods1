@@ -14,3 +14,7 @@ Joined date: 01/06/2026
 Status: New GitHuber
 
 Nationality: Brazil
+
+# Sites
+[Contact Us](https://github.com/IncrediboxMods1/Contact-Us/blob/main/README.md)
+[Rules](https://github.com/IncrediboxMods1/Rules/blob/main/README.md
