@@ -11,7 +11,7 @@ Report bad users (Not me)
 # Bio
 Joined date: 01/06/2026
 
-Status: New GitHuber
+Status: GitHuber
 
 Nationality: Brazil
 
@@ -21,3 +21,5 @@ Nationality: Brazil
 [Rules](https://github.com/IncrediboxMods1/Rules/blob/main/README.md)
 
 [Our Team](https://github.com/IncrediboxMods1/Our-Team/blob/main/README.md)
+
+[Play Now](https://incredibox.com)
