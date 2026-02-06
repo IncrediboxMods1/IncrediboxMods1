@@ -1,12 +1,12 @@
 # Description
-Welcome to my profile! I like Incredibox mods and coding a Incredibox mod, we make easier Dev Tools to help peoples how to create a Incredimod
+Welcome to our profile! We like Incredibox mods and coding a Incredibox mod, we make easier Dev Tools to help peoples how to create a Incredimod
 
 # My Profile Rules
-Don't block me
+Don't block us
 
-Don't report me
+Don't report us
 
-Report bad users (Not me)
+Report bad users (Not us)
 
 # Bio
 Joined date: 01/06/2026
